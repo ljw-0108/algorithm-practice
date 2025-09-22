@@ -1,6 +1,3 @@
-def solution(a, b):
-    answer = 0
-    return answer
 def solution(a, b):    
     if a == b:
         return a or b
